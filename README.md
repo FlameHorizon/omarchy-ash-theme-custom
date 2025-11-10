@@ -18,7 +18,7 @@ This is the Ash Theme Custom for [Omarchy.org](https://omarchy.org), providing a
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
-omarchy-theme-install [https://github.com/bjarneo/omarchy-ash-theme](https://github.com/FlameHorizon/omarchy-ash-theme-custom)
+omarchy-theme-install https://github.com/FlameHorizon/omarchy-ash-theme-custom
 ```
 
 ## Neovim theme
